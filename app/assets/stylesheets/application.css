@@ -57,3 +57,11 @@ td {
   padding-left: 5px;
   padding-right: 5px;
 }
+
+label {
+  display: block;
+}
+
+div.field, div.actions {
+  margin-bottom: 10px;
+}
